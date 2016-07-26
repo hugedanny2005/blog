@@ -1,0 +1,19 @@
+{% extends 'index.html' %}
+
+    {% block head %}
+        <title>Read Blogs</title>
+    {% endblock %}
+
+    {% block body %}
+        {% for b in blogs %}
+            <h1> {{ b.title }}</h1>
+            <h4>By: {{ b.author }} &nbsp; &nbsp;
+            Date: {{ b.publish }} </h4>
+            <div class="message">
+            {% autoescape off %}
+                {{ b.post }}<br /><br/>
+            {% endautoescape %}
+            </div>
+        {% endfor %}
+    {% endblock %}
+

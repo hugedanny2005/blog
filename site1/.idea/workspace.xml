@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11430c87-5938-4d4c-ba41-9004f37e7e55" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/blog/login_signup.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Unit_test/unit_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../temp.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Classes/mtools.py" afterPath="$PROJECT_DIR$/../../Classes/mtools.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Classes/temp.txt" afterPath="$PROJECT_DIR$/../../Classes/temp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Classes/test.py" afterPath="$PROJECT_DIR$/../../Classes/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../DMZ/carol.py" afterPath="$PROJECT_DIR$/../../DMZ/carol.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../DMZ/main.py" afterPath="$PROJECT_DIR$/../../DMZ/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../DMZ/team.py" afterPath="$PROJECT_DIR$/../../DMZ/team.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../DMZ/test.py" afterPath="$PROJECT_DIR$/../../DMZ/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/add_a_button.py" afterPath="$PROJECT_DIR$/../../GUI_Test/add_a_button.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/brush.py" afterPath="$PROJECT_DIR$/../../GUI_Test/brush.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/calendar.py" afterPath="$PROJECT_DIR$/../../GUI_Test/calendar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/cd_burning_widget.py" afterPath="$PROJECT_DIR$/../../GUI_Test/cd_burning_widget.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/centering_window.py" afterPath="$PROJECT_DIR$/../../GUI_Test/centering_window.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/checkbox.py" afterPath="$PROJECT_DIR$/../../GUI_Test/checkbox.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/close_window.py" afterPath="$PROJECT_DIR$/../../GUI_Test/close_window.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/colo_dialog.py" afterPath="$PROJECT_DIR$/../../GUI_Test/colo_dialog.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/colors.py" afterPath="$PROJECT_DIR$/../../GUI_Test/colors.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/combo_box.py" afterPath="$PROJECT_DIR$/../../GUI_Test/combo_box.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/drag_n_drop.py" afterPath="$PROJECT_DIR$/../../GUI_Test/drag_n_drop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/drag_n_drop_button.py" afterPath="$PROJECT_DIR$/../../GUI_Test/drag_n_drop_button.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/draw_dots.py" afterPath="$PROJECT_DIR$/../../GUI_Test/draw_dots.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/draw_text.py" afterPath="$PROJECT_DIR$/../../GUI_Test/draw_text.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/emit_signal.py" afterPath="$PROJECT_DIR$/../../GUI_Test/emit_signal.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/event_handler.py" afterPath="$PROJECT_DIR$/../../GUI_Test/event_handler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/event_sender.py" afterPath="$PROJECT_DIR$/../../GUI_Test/event_sender.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/file_dialog.py" afterPath="$PROJECT_DIR$/../../GUI_Test/file_dialog.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/font_dialog.py" afterPath="$PROJECT_DIR$/../../GUI_Test/font_dialog.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/game_tetris.py" afterPath="$PROJECT_DIR$/../../GUI_Test/game_tetris.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/input_dialog.py" afterPath="$PROJECT_DIR$/../../GUI_Test/input_dialog.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/line_edit.py" afterPath="$PROJECT_DIR$/../../GUI_Test/line_edit.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/menu_bar.py" afterPath="$PROJECT_DIR$/../../GUI_Test/menu_bar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/menu_tool_combo.py" afterPath="$PROJECT_DIR$/../../GUI_Test/menu_tool_combo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/message_box.py" afterPath="$PROJECT_DIR$/../../GUI_Test/message_box.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/pen.py" afterPath="$PROJECT_DIR$/../../GUI_Test/pen.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/pixmap.py" afterPath="$PROJECT_DIR$/../../GUI_Test/pixmap.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/progress_bar.py" afterPath="$PROJECT_DIR$/../../GUI_Test/progress_bar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/set_tool_tips.py" afterPath="$PROJECT_DIR$/../../GUI_Test/set_tool_tips.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/signal_and_slot.py" afterPath="$PROJECT_DIR$/../../GUI_Test/signal_and_slot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/slider.py" afterPath="$PROJECT_DIR$/../../GUI_Test/slider.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/splitter.py" afterPath="$PROJECT_DIR$/../../GUI_Test/splitter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/status_bar.py" afterPath="$PROJECT_DIR$/../../GUI_Test/status_bar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/toggle_button.py" afterPath="$PROJECT_DIR$/../../GUI_Test/toggle_button.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../GUI_Test/tool_bar.py" afterPath="$PROJECT_DIR$/../../GUI_Test/tool_bar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../M8ACEWHL_Sprint_NoModelName_20140207.rdf" afterPath="$PROJECT_DIR$/../../M8ACEWHL_Sprint_NoModelName_20140207.rdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../PySide/create_window.py" afterPath="$PROJECT_DIR$/../../PySide/create_window.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../PySide/file_explorer.py" afterPath="$PROJECT_DIR$/../../PySide/file_explorer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../PySide/set_icon_mode.py" afterPath="$PROJECT_DIR$/../../PySide/set_icon_mode.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SqliteDB/sqlite_test.py" afterPath="$PROJECT_DIR$/../../SqliteDB/sqlite_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SqliteDB/test.py" afterPath="$PROJECT_DIR$/../../SqliteDB/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../WebService/test-client.py" afterPath="$PROJECT_DIR$/../../WebService/test-client.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../WebService/test-server.py" afterPath="$PROJECT_DIR$/../../WebService/test-server.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../WebService/ws_test.py" afterPath="$PROJECT_DIR$/../../WebService/ws_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Xpath/ATT_default.xml" afterPath="$PROJECT_DIR$/../../Xpath/ATT_default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Xpath/test.py" afterPath="$PROJECT_DIR$/../../Xpath/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Xpath/xml_sample.xml" afterPath="$PROJECT_DIR$/../../Xpath/xml_sample.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../apns.xml" afterPath="$PROJECT_DIR$/../../apns.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../apns2.xml" afterPath="$PROJECT_DIR$/../../apns2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../cid_default.xml" afterPath="$PROJECT_DIR$/../../cid_default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../contextualwidget.xml" afterPath="$PROJECT_DIR$/../../contextualwidget.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/Dona.py" afterPath="$PROJECT_DIR$/../../homework/Dona.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/Evangel.py" afterPath="$PROJECT_DIR$/../../homework/Evangel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/Iris.py" afterPath="$PROJECT_DIR$/../../homework/Iris.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/James.py" afterPath="$PROJECT_DIR$/../../homework/James.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/Jon.py" afterPath="$PROJECT_DIR$/../../homework/Jon.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/Justin.py" afterPath="$PROJECT_DIR$/../../homework/Justin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/Natasha.py" afterPath="$PROJECT_DIR$/../../homework/Natasha.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/Sharon.py" afterPath="$PROJECT_DIR$/../../homework/Sharon.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/arthur.py" afterPath="$PROJECT_DIR$/../../homework/arthur.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/main.py" afterPath="$PROJECT_DIR$/../../homework/chk/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member01.py" afterPath="$PROJECT_DIR$/../../homework/chk/member01.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member02.py" afterPath="$PROJECT_DIR$/../../homework/chk/member02.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member03.py" afterPath="$PROJECT_DIR$/../../homework/chk/member03.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member04.py" afterPath="$PROJECT_DIR$/../../homework/chk/member04.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member05.py" afterPath="$PROJECT_DIR$/../../homework/chk/member05.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member07.py" afterPath="$PROJECT_DIR$/../../homework/chk/member07.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member08.py" afterPath="$PROJECT_DIR$/../../homework/chk/member08.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member09.py" afterPath="$PROJECT_DIR$/../../homework/chk/member09.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member10.py" afterPath="$PROJECT_DIR$/../../homework/chk/member10.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/chk/member11.py" afterPath="$PROJECT_DIR$/../../homework/chk/member11.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/hubert.py" afterPath="$PROJECT_DIR$/../../homework/hubert.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/jason.py" afterPath="$PROJECT_DIR$/../../homework/jason.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../homework/main.py" afterPath="$PROJECT_DIR$/../../homework/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mns_default.xml" afterPath="$PROJECT_DIR$/../../mns_default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../myclass.py" afterPath="$PROJECT_DIR$/../../myclass.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../quicklaunch_chrome.xml" afterPath="$PROJECT_DIR$/../../quicklaunch_chrome.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../test.py" afterPath="$PROJECT_DIR$/../../test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../tool_module.py" afterPath="$PROJECT_DIR$/../../tool_module.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../zip/ccids.txt" afterPath="$PROJECT_DIR$/../../zip/ccids.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../zip/dtools.py" afterPath="$PROJECT_DIR$/../../zip/dtools.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../zip/err_log.txt" afterPath="$PROJECT_DIR$/../../zip/err_log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../zip/read_from_zip.py" afterPath="$PROJECT_DIR$/../../zip/read_from_zip.py" />
+    </list>
+    <ignored path="site1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="site1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show_blog.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/blog/show_blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/blog/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blog/templates/blog/home.html" />
+        <option value="$PROJECT_DIR$/site1/templates/blog/home.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/blog/home.html" />
+        <option value="$PROJECT_DIR$/blog/models.py" />
+        <option value="$PROJECT_DIR$/blog/admin.py" />
+        <option value="$PROJECT_DIR$/blog/urls.py" />
+        <option value="$PROJECT_DIR$/templates/blog/login_signup.html" />
+        <option value="$PROJECT_DIR$/site1/settings.py" />
+        <option value="$PROJECT_DIR$/templates/blog/write_blog.html" />
+        <option value="$USER_HOME$/桌面/test_jquery.html" />
+        <option value="$PROJECT_DIR$/blog/views.py" />
+        <option value="$PROJECT_DIR$/templates/blog/show_blog.html" />
+        <option value="$PROJECT_DIR$/templates/blog/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="316" />
+    <option name="y" value="116" />
+    <option name="width" value="1400" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="site1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="site1" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="site1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="site1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="site1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="site1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="site1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11430c87-5938-4d4c-ba41-9004f37e7e55" name="Default" comment="" />
+      <created>1467967153161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1467967153161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="316" y="116" width="1400" height="833" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32742155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/桌面/test_jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/桌面/test_jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/show_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/login_signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/write_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/show_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/login_signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/write_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/login_signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site1/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="58" column="62" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/write_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/桌面/test_jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/show_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
